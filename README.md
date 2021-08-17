@@ -8,12 +8,10 @@ Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmj
 
 Afterwards, install the dependencies by running `npm install`:
 
-```bash
-cd {{pluginFileName}}
 
 # If you use npm
 npm install
-```
+
 
 ## Development
 
